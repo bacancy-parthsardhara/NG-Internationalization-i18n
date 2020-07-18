@@ -1,0 +1,17 @@
+{
+    "header": {
+        "profile": "प्रोफ़ाइल",
+        "blog": "ब्लॉग",
+        "certificate": "प्रमाणपत्र",
+        "language": "भाषा"
+    },
+    "profile": {
+        "welcome_title": "प्रोफाइल पेज पर आपका स्वागत है।"
+    },
+    "blog": {
+        "welcome_title": "ब्लॉग पेज पर आपका स्वागत है।"
+    },
+    "certificate": {
+        "welcome_title": "प्रमाणपत्र पृष्ठ पर आपका स्वागत है।"
+    }
+}
